@@ -4,18 +4,11 @@
 ![](https://komarev.com/ghpvc/?username=Fancy96&color=blue)
 
 
-
 ### Hi there 👋
 
 I'm currently studying Backend Development.
 
 If you're curious about me, Come visit [My GitHub Blog](https://fancy96.github.io/).
-
-
-
-
-
-
 
 
 **Languages and Tech stack**
@@ -27,9 +20,9 @@ If you're curious about me, Come visit [My GitHub Blog](https://fancy96.github.i
 <code><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></code>
 
 
+**My GitHub Stats**
 
-
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fancy96&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
