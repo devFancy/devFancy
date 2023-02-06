@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+I'm currently studying Backend Development.
+
+If you're curious about me,
+
+Come visit [My GitHub Blog](https://fancy96.github.io/).
+
 <!--
 **Fancy96/Fancy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
