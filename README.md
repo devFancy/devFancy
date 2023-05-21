@@ -29,11 +29,11 @@ If you're curious about me, Come visit [My GitHub Blog](https://fancy96.github.i
 
 **My GitHub Stats**
 
-![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=fancy96&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=devfancy&show_icons=true)
 
 
 <!--
-**Fancy96/Fancy96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**devFancy/devFancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
