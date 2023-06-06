@@ -29,7 +29,7 @@ If you're curious about me, please click here! 👉🏻 [About Me](https://devfa
 
 **My GitHub Stats**
 
-![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=devfancy&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=devfancy&show_icons=true?username=devfancy&count_private=true)
 
 
 <!--
