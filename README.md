@@ -22,6 +22,7 @@ If you're curious about me, please click here! 👉🏻 [About Me](https://devfa
 **Experience**
 
 - 2023.04.24 - 현재: [우리FISA 1기](https://github.com/devFancy/woorifisa)(우리FIS, `Fintech Cloud Service Developer`)
+- 2022.10 - 2022.12: 우아한테크코스 5기 프리코스(우아한형제들, `Backend`): [devfancy-woowacourse](https://github.com/devFancy/devfancy-woowacourse)
 - 2022.10 - 2022.11: KNU 창업성과 경진대회(컴퓨터학부, `장려상` 수상)
 - 2022.08 - 2022.10: [KNU 학생설계 융합전공 공모전](https://devfancy.github.io/Competition-KNU-Student-Design-Convergence-Major-Contest/)(컴퓨터학부, `대상` 수상)
 - 2022.07 - 2022.11: [공개 SW 개발자 대회](https://github.com/Karrier-Team/Karrier-Back)(PM, `우수작` 선정)
