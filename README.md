@@ -19,6 +19,9 @@ If you're curious about me, please click here! 👉🏻 [My Github Blog](https:/
  <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></code>
  <code><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></code>
 
+
+<!--
+
 **Experience**
 
 - 2023.04.24 - 현재: [우리FISA 1기](https://github.com/devFancy/woorifisa)(우리FIS, `Fintech Cloud Service Developer`)
@@ -36,6 +39,8 @@ If you're curious about me, please click here! 👉🏻 [My Github Blog](https:/
 
 - 2023.01.01 - 현재: [신입 개발자 CS 면접 대비 스터디](https://github.com/devSquad-study/2023-CS-Study/wiki)
 - 2022.12.22 - 현재: [코딩테스트 대비 BE 알고리즘 스터디](https://github.com/devFancy/problem-solving), [알고리즘 문제 풀이](https://devfancy.github.io/category/#Algorithm)
+
+-->
 
 
 <!-- **Side Languages and Tech stack**
