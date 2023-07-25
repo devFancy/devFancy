@@ -50,9 +50,9 @@ If you're curious about me, please click here! 👉🏻 [My Github Blog](https:/
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=Vue.js&logoColor=white"/></code> -->
 
-<!-- **My GitHub Stats**
+**My GitHub Stats**
 
-![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=devfancy&show_icons=true?username=devfancy&count_private=true) -->
+![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=devfancy&show_icons=true?username=devfancy&count_private=true)
 
 
 <!--
