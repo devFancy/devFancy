@@ -15,9 +15,7 @@ If you're curious about me, please click here! 👉🏻 [My Github Blog](https:/
 
  <code><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></code>
  <code><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></code>
- <code><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></code>
- <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></code>
- <code><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></code>
+
 
 
 <!--
@@ -45,6 +43,9 @@ If you're curious about me, please click here! 👉🏻 [My Github Blog](https:/
 
 <!-- **Side Languages and Tech stack**
 
+<code><img src="https://img.shields.io/badge/Gradle-02303A?style=flat&logo=Gradle&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white"/></code>
+<code><img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></code>
