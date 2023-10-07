@@ -6,7 +6,7 @@
 
 👨🏻‍💻 I'm currently studying **Backend Development**.
 
-If you're curious about me, please click here! ✨ [**Resume**](https://www.figma.com/file/mhu0WK5vTkFaNPAnKcemR4/%EB%AC%B8%EC%A4%80%EC%9A%A9-%EC%9D%B4%EB%A0%A5%EC%84%9C?type=design&node-id=0-1&mode=design&t=pceVFBcZAlp5XnbQ-0) | [**Portfolio**](https://junyongmoon.notion.site/JUNYONGMOON-cb68e55114014ce395da0c0f5c3c5f31?pvs=4) | [**Tech Blog**](https://devfancy.github.io/)
+If you're curious about me, please click here! ✨ [**Portfolio**](https://junyongmoon.notion.site/JUNYONGMOON-cb68e55114014ce395da0c0f5c3c5f31?pvs=4) | [**Tech Blog**](https://devfancy.github.io/)
 
 **Key Languages and Tech stack**
 
