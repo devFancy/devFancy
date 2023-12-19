@@ -6,7 +6,7 @@
 
 👨🏻‍💻 I'm currently studying **Backend Development**.
 
-If you're curious about me, please click here! ✨ [**Portfolio**](https://junyongmoon.notion.site/JUNYONGMOON-cb68e55114014ce395da0c0f5c3c5f31?pvs=4) | [**Tech Blog**](https://devfancy.github.io/)
+If you're curious about me, please click here! ✨ [**Resume**](https://bit.ly/476HFXu) | [**Tech Blog**](https://devfancy.github.io/)
 
 **Key Languages and Tech stack**
 
