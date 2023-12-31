@@ -18,8 +18,8 @@ If you're curious about me, please click here! ✨ [**Resume**](https://bit.ly/4
 ---
 
 **Personal Experience & Projects**
-- **BE - Hibit** <sub>(2023.05 ~ 2023.11) / ver2. (2023.12 ~ ing)</sub>
-- **BE - GoodFriends** <sub>(2023.08 ~ 2023.09) / (2023.12 ~ ing)</sub>
+- **BE - Hibit** <sub>(2023.05 ~ 2023.11) / ver2. (2024.01 ~ ing)</sub>
+- **BE - GoodFriends** <sub>(2023.08 ~ 2023.09) / (2023.12)</sub>
 - BE 우아한테크코스 5기 프리코스 <sub>(2022.10 ~ 2022.12)</sub>
 - BE Intern - Nexa <sub>(2022.07 ~ 2022.08)</sub>
 
