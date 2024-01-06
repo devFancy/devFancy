@@ -8,7 +8,7 @@
 
 👨🏻‍💻 I'm currently studying **Backend Development**.
 
-If you're curious about me, please click here! ✨ [**Resume**](https://bit.ly/476HFXu) | [**Tech Blog**](https://devfancy.github.io/)
+If you're curious about me, please click here! ✨ [**Tech Blog**](https://devfancy.github.io/)
 
 **Key Languages and Tech stack**
 
@@ -31,11 +31,11 @@ If you're curious about me, please click here! ✨ [**Resume**](https://bit.ly/4
 - **우리FISA 1기** <sub>(2023.04 ~ 2023.09)</sub>
 - **경북대학교 글로벌소프트웨어융합학과** <sub>(2020.03 ~ 2023.08)</sub>
 
+<!--
 **My GitHub Stats**
 
 ![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=devfancy&show_icons=true?username=devfancy&count_private=true)
 
-<!--
 **devFancy/devFancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
