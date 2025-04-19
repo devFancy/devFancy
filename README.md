@@ -15,11 +15,10 @@ If you're curious about me, please click here! 🔗 [**Tech Blog**](https://devf
  <code><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></code>
  <code><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></code>
 
+**Retrospective**
 
-* I'm currently writing a book titled 'Computer Science for Entry-Level Developers.' ✍🏻 | Period : 2024.09 ~ Currently in progress
-* I am participating in the [DDD Serenade 7th](https://edu.nextstep.camp/c/GwN2MSqv) with NEXTSTEP | Period: 2025.01.21 ~ 2025.03.03
-* I'm was part of [SIPE](https://github.com/sipe-team) 3rd (A collaborative IT community for developers to connect and grow together) | Period : 2024.10 ~ 2025.02
-* Algorithm Study : [LeetCode](https://github.com/devFancy/LeetCode) | Period : 2024.04 ~ 2024.10
+- [2024년 회고](https://devfancy.github.io/2024-Retrospective/)
+- [2023년 회고](https://devfancy.github.io/2023-Retrospective/)
 
 <!--
 
