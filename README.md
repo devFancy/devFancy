@@ -6,7 +6,7 @@
 
 ### Hi there 👋
 
-👨🏻‍💻 I'm currently studying **Backend Development**.
+👨🏻‍💻 I'm a **Backend Developer** focused on building products that grow businesses and bring joy to users.
 
 If you're curious about me, please click here! 🔗 [**Tech Blog**](https://devfancy.github.io/)
 
@@ -16,8 +16,8 @@ If you're curious about me, please click here! 🔗 [**Tech Blog**](https://devf
 <code><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></code>
 <code><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/></code>
+<!-- <code><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></code> -->
 
 <!--
 
