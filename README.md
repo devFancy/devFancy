@@ -20,12 +20,19 @@ If you're curious about me, please click here! 🔗 [**Tech Blog**](https://devf
 <!-- <code><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></code> -->
 
 ---
+### 🇺🇸 English
+**`frame`** | Stock Evaluation & Memo Web for Individual Investors
 
-**Current Project: `frame`** | Stock Evaluation & Memo Web for Individual Investors
-
+**Build your own investment philosophy and values.**  </br>
 Define your own investment criteria and evaluate the value of your stocks. </br>
 Check the value of your investments at [frame.io.kr](https://frame.io.kr/).
 
+### 🇰🇷 Korean
+**`frame`** | 개인 투자자를 위한 주식 평가 및 메모 웹
+
+**투자에 대한 당신만의 철학과 가치관을 만들어보세요.** </br>
+스스로 투자 기준을 정의하고 관심 주식의 가치를 평가할 수 있습니다. </br>
+frame 서비스에서 당신의 투자 가치를 확인해 보세요.
 
 <!--
 
