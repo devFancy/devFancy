@@ -20,19 +20,6 @@ If you're curious about me, please click here! 🔗 [**Tech Blog**](https://devf
 <!-- <code><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></code> -->
 
 ---
-### 🇺🇸 English
-**`frame`** | The Ultimate Platform for Individual Value Investors
-
-**Build your own investment philosophy for sustainable investing.**  </br>
-Stop chasing trends. Define your own criteria, evaluate your stocks, and record your insights. </br>
-Start shaping your investment journey at [frame.io.kr](https://frame.io.kr/).
-
-### 🇰🇷 Korean
-**`frame`** | 개인 가치 투자자를 위한 주식 평가 및 메모 플랫폼
-
-**모든 개인 투자자가 자신만의 흔들림 없는 투자 철학을 갖도록 도와줘요.** </br>
-`frame`은 스스로 투자 기준을 세우고, 객관적으로 주식의 가치를 평가할 수 있는 공간이에요. </br>
-당신의 투자 철학을 바탕으로 지속 가능한 투자를 이어나가시길 바랄게요.
 
 <!--
 
