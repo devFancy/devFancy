@@ -1,7 +1,8 @@
 <p>
+<a name="devfancy"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
-  <a name="devfancy"><img src="assets/header-light.png" width="100%" alt="devfancy, Software Engineer"></a>
+  <img src="assets/header-light.png" width="100%" alt="devfancy, Software Engineer">
 </picture>
 </p>
 
@@ -16,9 +17,10 @@ Currently building and improving product features at a content platform company.
 ### Tech Stack
 
 <p>
+<a name="stack"></a>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
-  <a name="stack"><img src="assets/stack-light.png" width="320" alt="Kotlin, Java, Spring, JPA, MySQL, Kafka, AWS"></a>
+  <img src="assets/stack-light.png" width="320" alt="Kotlin, Java, Spring, JPA, MySQL, Kafka, AWS">
 </picture>
 </p>
 
