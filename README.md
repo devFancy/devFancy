@@ -1,45 +1,48 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=130&section=header&text=Junyong%20Moon&fontSize=60&fontAlign=26)
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.png">
+  <a name="devfancy"><img src="assets/header-light.png" width="100%" alt="devfancy, Software Engineer"></a>
+</picture>
+</p>
 
-<!--
-![](https://komarev.com/ghpvc/?username=fancy96&color=blue)
--->
+I'm a software engineer who builds products people enjoy using.
 
-### Hi there 👋
+I start by understanding the domain, and once something ships, I refine it with data.
 
-👨🏻‍💻 I'm a **Backend Developer** focused on building products that grow businesses and bring joy to users.
+Currently building and improving product features at a content platform company.
 
-If you're curious about me, please click here! 🔗 [**Tech Blog**](https://devfancy.github.io/)
+[**About Me**](https://devfancy.github.io/about/)
 
-**Key Languages and Tech stack**
+### Tech Stack
 
-<code><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/></code>
-<!-- <code><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"/></code> -->
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
+  <a name="stack"><img src="assets/stack-light.png" width="320" alt="Kotlin, Java, Spring, JPA, MySQL, Kafka, AWS"></a>
+</picture>
+</p>
 
----
+### Selected Writing
 
-<!--
-
-✨ For More Info ... [**Resume**](https://www.figma.com/file/mhu0WK5vTkFaNPAnKcemR4/%EB%AC%B8%EC%A4%80%EC%9A%A9_%EC%9D%B4%EB%A0%A5%EC%84%9C?type=design&node-id=354-2&mode=design&t=rNTUhSuKTPUoz7gR-0) | [**Portfolio**](https://junyongmoon.notion.site/b2a87f8f36d0404f9bf9fcc0f7e1448c?pvs=4)
-
-
-**My GitHub Stats**
-
-![Anurag's GitHub stats](https://github-readme-stats-zeta-henna-95.vercel.app/api?username=devfancy&show_icons=true?username=devfancy&count_private=true)
-
-**devFancy/devFancy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://devfancy.github.io/Book-The-One-Who-Leaves-People-Behind/"><img src="https://devfancy.github.io/assets/og/Book-The-One-Who-Leaves-People-Behind.jpg" width="100%" alt="'삶을 재구성하는 관계의 법칙, 사람을 남기는 사람' 책 리뷰"/></a><br/>
+'삶을 재구성하는 관계의 법칙, 사람을 남기는 사람' 책 리뷰
+</td>
+<td width="50%" valign="top">
+<a href="https://devfancy.github.io/Book-Interview-Questions/"><img src="https://devfancy.github.io/assets/og/Book-Interview-Questions.jpg" width="100%" alt="'삶의 태도를 돌아보는 면접의 질문들' 책 리뷰"/></a><br/>
+'삶의 태도를 돌아보는 면접의 질문들' 책 리뷰
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://devfancy.github.io/SpringBoot-Logging-Filter/"><img src="https://devfancy.github.io/assets/og/SpringBoot-Logging-Filter.jpg" width="100%" alt="Spring Boot 요청 흐름 추적: Logging Filter와 traceId 적용기"/></a><br/>
+Spring Boot 요청 흐름 추적: Logging Filter와 traceId 적용기
+</td>
+<td width="50%" valign="top">
+<a href="https://devfancy.github.io/DDD-Serenade-7th-Review/"><img src="https://devfancy.github.io/assets/og/DDD-Serenade-7th-Review.jpg" width="100%" alt="DDD 세레나데 7기, 5주간의 여정을 돌아보며"/></a><br/>
+DDD 세레나데 7기, 5주간의 여정을 돌아보며
+</td>
+</tr>
+</table>
