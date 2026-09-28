@@ -13,10 +13,11 @@ Currently building and improving product features at a content platform company.
 
 [**About Me**](https://devfancy.github.io/about/)
 
-**Key Languages and Tech stack**
+### Tech Stack
 
-<code><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=Hibernate&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></code>
-<code><img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=ApacheKafka&logoColor=white"/></code>
+<p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.png">
+  <a name="stack"><img src="assets/stack-light.png" width="320" alt="Kotlin, Java, Spring, JPA, MySQL, Kafka, AWS"></a>
+</picture>
+</p>
